@@ -1,0 +1,42 @@
+2019-05-09T21:19:42.395218
+Dimension Size: 200
+Filter Size: 32
+Kernel Size: 10
+Loss: 0.17441511677310872
+Accuracy: 95.278448
+
+2019-05-09T21:56:55.279672
+Dimension Size: 200
+Filter Size: 32
+Kernel Size: 10
+Loss: 0.1710457260954578
+Accuracy: 95.359159
+
+2019-05-09T22:05:30.301035
+Dimension Size: 200
+Filter Size: 32
+Kernel Size: 10
+Loss: 0.15578673525899048
+Accuracy: 95.076674
+
+2019-05-09T22:25:51.439396
+Dimension Size: 200
+Filter Size: 32
+Kernel Size: 10
+Loss: 0.18911656722435058
+Accuracy: 94.995964
+
+2019-05-09T22:32:15.664640
+Dimension Size: 200
+Filter Size: 32
+Kernel Size: 10
+Loss: 0.18798164476118487
+Accuracy: 94.350284
+
+2019-05-09T22:36:02.399110
+Dimension Size: 200
+Filter Size: 32
+Kernel Size: 10
+Loss: 0.18767825167914035
+Accuracy: 94.794190
+
